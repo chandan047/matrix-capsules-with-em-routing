@@ -1,0 +1,3 @@
+[submodule "siamFC"]
+	path = siamFC
+	url = git@github.com:saiajaym/siamFC.git
